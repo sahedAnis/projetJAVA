@@ -1,7 +1,3 @@
-# COO-KENBA-SAHED
-
-Dépôt des TP COO des étudiants KENBA Ayoub et SAHED Anis (L3 MIAGE)
-
 # V1 : 
 # 🚪 Introduction sur le sujet du projet : 
 Le sujet du projet est : Compétitions sportives. Le but de ce dernier est de réaliser une implémentation de compétitions. Cette implémentation doit être ouverte aux extensions.
